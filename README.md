@@ -3,4 +3,6 @@
 
 # 目录
 * lr 逻辑回归
- 
+* linear_regression 线性回归
+* tree_model CART回归树模型
+* TSP 列举了４种求解TSP的启发式算法 
